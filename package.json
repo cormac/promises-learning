@@ -1,0 +1,24 @@
+{
+  "name": "promises",
+  "version": "0.0.0",
+  "description": "learn how to use promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "promises-tut"
+  },
+  "author": "Cormac McGuire",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "q": "~0.9.7",
+    "mocha": "~1.13.0",
+    "expect.js": "~0.2.0",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "q-io": "~1.10.2"
+  }
+}
